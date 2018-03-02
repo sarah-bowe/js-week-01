@@ -3,7 +3,7 @@
  * result from the right side of the fat arrow (=>).
  * 
  * Make the tests pass by completing or changing
- * the statements to the below each fat arrow.
+ * the statements below each fat arrow.
  * 
  * For now, don't worry about the rest of the syntax
  * or even what the functions are doing. Just focus
