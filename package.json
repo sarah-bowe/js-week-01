@@ -1,0 +1,21 @@
+{
+  "name": "js-week-01",
+  "version": "0.0.0",
+  "description": "JavaScript Week 1 - Starting with the Basics",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/bhdirect-epubs/js-week-01.git"
+  },
+  "author": "Weston Littrell",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^22.4.2"
+  },
+  "jest": {
+    "verbose": false
+  }
+}
