@@ -5,7 +5,9 @@
  * Make the tests pass by completing or changing
  * the statements to the below each fat arrow.
  * 
- * Don't worry about the rest of the syntax for now.
+ * For now, don't worry about the rest of the syntax
+ * or even what the functions are doing. Just focus
+ * on practicing and applying what you've learned.
  */
 
 
